@@ -1,4 +1,4 @@
-const apiKey="YOUR_API_KEY";
+const apiKey = "abc123xyz456yourapikey";
 
 const city=document.getElementById("city");
 
